@@ -1,1 +1,1 @@
-student management project 
+attendance module 
